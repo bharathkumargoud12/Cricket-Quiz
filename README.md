@@ -1,2 +1,2 @@
-# Cricket-Quiz
-Cricket Quiz about T20 ICC events
+
+ This repository is for "Cricket Quiz about T20 ICC events".
